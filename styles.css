@@ -1,0 +1,39 @@
+* {
+    background: #f2f2f2;
+}
+
+h1.title {
+    font-size: 36px;
+}
+
+h5 {
+    font-size: 10px;
+}
+
+img {
+    height: 350px;
+    width: auto;
+}
+
+.recipe-link,
+h2.subtitle {
+    font-size: 24px;
+}
+
+p.description,
+.lists {
+    font-size: 18px;
+}
+
+p.description {
+    text-align: left;
+}
+
+h1.title,
+h2.subtitle {
+    text-align: center;
+}
+
+li {
+    font-size: 16px;
+}
